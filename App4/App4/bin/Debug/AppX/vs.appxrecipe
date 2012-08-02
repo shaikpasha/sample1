@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PASHA-WIN8</Machine>
+    <WindowsUser>Pasha</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>D2166812CCA4AF03F3EB3E37F319FAD78DD7E343FAFE903259AB67D7D57CC009</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c2598304-5fc2-4407-890a-81c66252eb72_1.0.0.0_neutral__t7qdqgcw5cd60</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c2598304-5fc2-4407-890a-81c66252eb72_t7qdqgcw5cd60!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c2598304-5fc2-4407-890a-81c66252eb72</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Pasha</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-28T10:06:17.975</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\bin\Debug\App4.exe">
+      <PackagePath>App4.exe</PackagePath>
+      <Modified>2012-07-28T10:06:17.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\bin\Debug\App4.pdb">
+      <PackagePath>App4.pdb</PackagePath>
+      <Modified>2012-07-28T10:06:17.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Desktop\flickr\FlickrNet-3.4.0\FlickrNet.dll">
+      <PackagePath>FlickrNet.dll</PackagePath>
+      <Modified>2012-03-15T16:09:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\images\Pictures-flickr.png">
+      <PackagePath>images\Pictures-flickr.png</PackagePath>
+      <Modified>2012-07-26T05:34:46.359</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2012-07-28T09:51:15.822</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\images\login_button_01.jpg">
+      <PackagePath>images\login_button_01.jpg</PackagePath>
+      <Modified>2012-07-26T05:38:03.918</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-04-23T21:03:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\bin\Debug\Dictionary1.xaml">
+      <PackagePath>Dictionary1.xaml</PackagePath>
+      <Modified>2012-07-26T05:15:19.702</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\bin\Debug\login.xaml">
+      <PackagePath>login.xaml</PackagePath>
+      <Modified>2012-07-26T07:35:29.159</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-07-26T07:28:31.836</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-07-26T01:40:52.069</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-07-28T10:06:17.928</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

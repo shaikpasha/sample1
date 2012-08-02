@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PASHA-WIN8</Machine>
+    <WindowsUser>Pasha</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\bin\Debug\App4.exe">
+      <PackagePath>App4.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\bin\Debug\App4.pdb">
+      <PackagePath>App4.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Desktop\flickr\FlickrNet-3.4.0\FlickrNet.dll">
+      <PackagePath>FlickrNet.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\images\Pictures-flickr.png">
+      <PackagePath>images\Pictures-flickr.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\images\login_button_01.jpg">
+      <PackagePath>images\login_button_01.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\bin\Debug\Dictionary1.xaml">
+      <PackagePath>Dictionary1.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\bin\Debug\login.xaml">
+      <PackagePath>login.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitheesh\Documents\Visual Studio 2012\Projects\App4\App4\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
