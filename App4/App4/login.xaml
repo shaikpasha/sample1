@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="App4.login"
+    IsTabStop="false"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App4"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#FFC8CDC1">
+    	<Grid.RowDefinitions>
+    		<RowDefinition Height="103*"/>
+    		<RowDefinition Height="665*"/>
+    	</Grid.RowDefinitions>
+    	<TextBlock x:Name="error" HorizontalAlignment="Left" Height="76" Margin="0,589.552,0,-0.537" TextWrapping="Wrap" VerticalAlignment="Top" Width="1366" Foreground="#FF000601" Grid.Row="1" FontSize="18.667"/>
+    	<TextBlock HorizontalAlignment="Left" Height="83" Margin="555.224,10,0,0" TextWrapping="Wrap" Text="FlickrMetro" VerticalAlignment="Top" Width="584" Foreground="#FF060101" FontSize="64" FontFamily="Comic Sans MS"/>
+    	<Image x:Name="flickr" HorizontalAlignment="Left" Height="127.313" Margin="428,0,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="252.239" Source="images/Pictures-flickr.png"/>
+    	<Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="36" Margin="593,121,0,0" Grid.Row="1" VerticalAlignment="Top" Width="291" CornerRadius="8" Background="#FFF9EFEF">
+    		<TextBox x:Name="username" HorizontalAlignment="Left" Height="36" Margin="0,0,-2,-2" TextWrapping="Wrap" Text="Enter user name" VerticalAlignment="Top" Width="291" Background="Transparent" BorderBrush="Transparent" BorderThickness="0"/>
+    	</Border>
+    	<Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="36" Margin="593,193,0,0" Grid.Row="1" VerticalAlignment="Top" Width="291" CornerRadius="8" Background="#FF9ADA76"/>
+    	<Button x:Name="login1" Content="Login" HorizontalAlignment="Left" Margin="593,191,0,0" Grid.Row="1" VerticalAlignment="Top" Width="291" BorderThickness="0" Height="38" BorderBrush="Transparent" Foreground="#FF2385D6" Opacity="2" FontFamily="Narkisim" FontSize="24" Click="login1_Click"/>
+    </Grid>
+</Page>
